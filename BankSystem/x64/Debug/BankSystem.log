@@ -1,0 +1,23 @@
+﻿  BankSystem.cpp
+C:\Users\طه\Desktop\myfirst\BankSystem\BankSystem\clsString.h(39,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\طه\Desktop\myfirst\BankSystem\BankSystem\clsString.h(44,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\طه\Desktop\myfirst\BankSystem\BankSystem\clsString.h(56,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\طه\Desktop\myfirst\BankSystem\BankSystem\clsString.h(193,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\طه\Desktop\myfirst\BankSystem\BankSystem\clsString.h(324,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\طه\Desktop\myfirst\BankSystem\BankSystem\clsString.h(372,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\طه\Desktop\myfirst\BankSystem\BankSystem\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+C:\Users\طه\Desktop\myfirst\BankSystem\BankSystem\clsUser.h(175,34): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+C:\Users\طه\Desktop\myfirst\BankSystem\BankSystem\clsUser.h(32,12): message : see declaration of 'clsUser::stLoginRegisterRecord'
+C:\Users\طه\Desktop\myfirst\BankSystem\BankSystem\clsCurrency.h(27,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\طه\Desktop\myfirst\BankSystem\BankSystem\clsBankClient.h(179,35): warning C4240: nonstandard extension used: access to 'clsBankClient::stTransferRegister' now defined to be 'public', previously it was defined to be 'private'
+C:\Users\طه\Desktop\myfirst\BankSystem\BankSystem\clsBankClient.h(158,14): message : see declaration of 'clsBankClient::stTransferRegister'
+C:\Users\طه\Desktop\myfirst\BankSystem\BankSystem\clsBankClient.h(30,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\طه\Desktop\myfirst\BankSystem\BankSystem\clsBankClient.h(349,32): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\طه\Desktop\myfirst\BankSystem\BankSystem\clsBankClient.h(360,36): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\طه\Desktop\myfirst\BankSystem\BankSystem\clsTotalBalancesScreen.h(59,74): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\طه\Desktop\myfirst\BankSystem\BankSystem\clsTransferScreen.h(47,53): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\طه\Desktop\myfirst\BankSystem\BankSystem\clsLoginScreen.h(43): warning C4715: 'clsLoginScreen::_Login': not all control paths return a value
+C:\Users\طه\Desktop\myfirst\BankSystem\BankSystem\clsBankClient.h(347): warning C4715: 'clsBankClient::Save': not all control paths return a value
+C:\Users\طه\Desktop\myfirst\BankSystem\BankSystem\clsBankClient.h(363): warning C4715: 'clsBankClient::Withdraw': not all control paths return a value
+C:\Users\طه\Desktop\myfirst\BankSystem\BankSystem\clsUser.h(356): warning C4715: 'clsUser::Save': not all control paths return a value
+  BankSystem.vcxproj -> C:\Users\طه\Desktop\myfirst\BankSystem\x64\Debug\BankSystem.exe
